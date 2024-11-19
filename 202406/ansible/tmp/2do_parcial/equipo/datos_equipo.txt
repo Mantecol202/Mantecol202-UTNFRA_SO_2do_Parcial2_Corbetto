@@ -1,0 +1,3 @@
+IP: 172.17.0.1
+Distribucion: Ubuntu
+Cantidad de Cores: 
